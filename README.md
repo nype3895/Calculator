@@ -1,4 +1,5 @@
 ![Calculator](https://github.com/user-attachments/assets/37bced0a-8e3a-4b2f-b086-65092638abc2)
+
 AI Calculator
 
 I attempted to create a TI-83 calculator using Claude.ai. I chose this specific calculator model because it was the first one that came to mind. However, the final product was not functional, and I encountered several critical issues.
