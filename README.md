@@ -1,3 +1,10 @@
-# Calculator![Screen Recording 2025-02-04 at 11 43 34 AM](https://github.com/user-attachments/assets/a68656fd-fc40-4bc6-8640-0c090cfefed5)
-*Extra Credit*
-Create a functional calculator
+![Calculator](https://github.com/user-attachments/assets/9b562369-4613-4408-8dc8-8d132d11a691)
+AI Calculator
+
+I attempted to create a TI-83 calculator using Claude.ai. I chose this specific calculator model because it was the first one that came to mind. However, the final product was not functional, and I encountered several critical issues.
+
+Issues Encountered
+
+Missing Key Functionalities – The calculator lacked an equal (=) sign, preventing calculations from being completed.
+Non-Functional Buttons – Essential functions like sin, cos, tan, and y= did not work, limiting its usability for mathematical operations.
+Incomplete Equation Processing – I was unable to enter and execute full equations, making the calculator ineffective for practical use.
